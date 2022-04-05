@@ -1,0 +1,108 @@
+#title {
+    text-align: end;
+    font-size: 90px;
+    text-decoration: underline;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-right: 25px;
+}
+
+#intro-label {
+    text-align: end;
+    color: white;
+    padding-right: 60px;
+    padding-bottom: 15px;
+}
+
+#intro {
+    text-align: end;
+    color: white;
+    font-size: large;
+    padding-right: 50px;
+    padding-bottom: 170px;
+}
+
+body {
+    background-color: rgb(17, 14, 51);
+}
+
+.zone {
+    padding: 25px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    max-width: 850px;
+    min-width: 570px;
+}
+
+#commun-dividers {
+    background-color: rgb(45, 45, 85);
+}
+
+#num-dividers {
+    background-color: rgb(54, 54, 82);
+}
+
+.sub-title {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.settings-title {
+    font-size: xx-large;
+    margin-left: 20px;
+}
+
+.label {
+    display: inline;
+    margin: 10px;
+    font-size: large;
+}
+
+.output-box {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    padding-top: 10px;
+    float: right;
+    background-color: rgb(38, 38, 66);
+    border-radius: 5px;
+    overflow:auto;
+}
+
+.output {
+    overflow: auto;
+    font-size: 15px;
+}
+
+.txt {
+    border-radius: 13px;
+    background-color: rgb(78, 78, 114);
+    border-style: solid;
+    border-color: rgb(27, 27, 58);
+    border-width: 3px;
+    padding: 5px;
+    margin-left: 10px;
+    color: white;
+}
+
+button {
+    border-radius: 10px;
+    background-color: rgb(78, 78, 114);
+    border-style: solid;
+    border-color: rgb(27, 27, 58);
+    border-width: 3px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
