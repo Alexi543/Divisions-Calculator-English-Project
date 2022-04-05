@@ -1,4 +1,5 @@
 import { string } from "./JavaScript-Tools/string.js";
+import { random } from "./JavaScript-Tools/random.js";
 
 const BUTTONS = document.querySelectorAll(".btn");
 const DIVIDERS_OUTPUT = document.getElementById("output-dividers");
